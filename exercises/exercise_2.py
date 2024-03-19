@@ -1,7 +1,7 @@
 # Exercise 2
 # Your solution comes here
 
-number = int(input("Enter a number"))
+number = int(input())
 
 if number % 2:
   print(number + 2)
