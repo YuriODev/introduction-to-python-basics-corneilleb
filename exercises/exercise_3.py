@@ -1,7 +1,7 @@
 # Exercise 3
 # Your solution comes here
 
-seconds = int(input("enter number of seconds: "))
+seconds = int(input())
 
 hours = seconds // 3600
 seconds = seconds % 3600
