@@ -4,8 +4,8 @@
 number = int(input())
 
 if number % 2:
-  number = number + 2
-else:
   number = number + 1
+else:
+  number = number + 2
 
 print(number)
